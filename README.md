@@ -42,4 +42,4 @@ You don't always need a fancier model — sometimes just **tuning the decision b
 1. Clone this repo
 2. Grab `train.csv` and `test.csv` from the [competition page](https://www.kaggle.com/competitions/nlp-getting-started/data)
 3. Open the notebook and run all cells top to bottom
-4. Watch it guess whether tweets are actually about disasters 🔮
+4. Watch it guess whether tweets are actually about actual disasters 🔮
