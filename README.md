@@ -38,7 +38,7 @@ Python 🐍 · Pandas · NumPy · Scikit-learn · TF-IDF · Logistic Regression
 ## 💡 Key Takeaway
 You don't always need a fancier model — sometimes just **tuning the decision boundary** squeezes out real performance gains. Small tweak, measurable win.
 
-## 🚀 How to Run
+## 🚀 How to Run it
 1. Clone this repo
 2. Grab `train.csv` and `test.csv` from the [competition page](https://www.kaggle.com/competitions/nlp-getting-started/data)
 3. Open the notebook and run all cells top to bottom
